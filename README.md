@@ -12,7 +12,7 @@ Repository of the project developed for the "Recommender Systems" course, part o
 
 This course aims at providing students with the ability to develop state-of-the-art Recommender Systems for different applications.
 
-This repository refers to the 2018 edition of the course, whose main topic is a Recommender System for music streaming services.
+This repository refers to the 2018/2019 edition of the course, whose main topic is a Recommender System for music streaming services.
 
 ## Group
 | First name | Last Name | GitHub |
