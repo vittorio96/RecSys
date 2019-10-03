@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: builder
+Version: 0.1.0
+Summary: A framework for building batch processing pipelines
+Home-page: http://github.com/deepfield/builder
+Author: Max Mizikar, Matt Hollingsworth
+Author-email: mr.hworth@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/deepfield/builder/tarball/0.1.0
+Description: UNKNOWN
+Platform: UNKNOWN
